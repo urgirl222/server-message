@@ -1,0 +1,1175 @@
+{
+	"Atomic":
+	{
+		"title": "Welcome To Rockwells Cafe! <3",
+		"titlecolor":
+		{
+			"r": 1,
+			"g": 0.043088972568511963,
+			"b": 0.86213815212249756,
+			"a": 1
+		},
+		"tabs": [
+			{
+				"id": "493290EA41FF297884C8749EC501C4E8",
+				"buttoninfo":
+				{
+					"id": "493290EA41FF297884C8749EC501C4E8",
+					"title": "Welcome <3",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10480998456478119,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator4",
+				"panel1":
+				{
+					"title": "<RichColor Color=\"1, 0, 1, 1\">Welcome To Rockwells Cafe! <3</>",
+					"titlejustification": "Left",
+					"text": "This server is a <RichColor Color=\"1, 0, 1, 1\">PvP</> server.\r\nWe do encourage <RichColor Color=\"1, 0, 1, 1\">roleplaying</>, be a witch in a swamp or a little dude who only breeds rexes. It's up to you!\r\n\r\n <RichColor Color=\"1, 0, 1, 1\">View the Servers Rates on the right</>\r\n\r\n<RichColor Color=\"1, 0, 1, 1\">View the next tab for server rules</>\r\n\r\nI'd loveeee it if you visited the <RichColor Color=\"1, 0, 1, 1\">rules</> tab! like seriously love it, either way, thanks for playing on RWC!\r\n\r\n<TS.Roboto.15.Red>Changes to Dino stats have been implemented, and changed. You may find your dinos and player stats are lower, specifically in health and damage. If you don't agree with this change please say so.</>\r\n\r\n<TS.Roboto.15.Red>Additional changes to PLAYER stats may be made, in health mainly.</>\r\n------------------------\r\n<TS.Roboto.15.Red>The Dino nanny now ONLY goes to 50% imprinting, if you disagree with this change please lmk.</>",
+					"textjustification": "Center",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://i.imgur.com/shTdhFY.png"
+				},
+				"panel2":
+				{
+					"title": "<RichColor Color=\"1, 0, 1, 1\">SERVER RATES</>",
+					"titlejustification": "Left",
+					"text": "<RichColor Color=\"1, 0, 1, 1\">General Harvest Rates</>\r\nHarvest 5x \r\n<RichColor Color=\"1, 0, 1, 1\">Other Related Rates</>\r\n\r\n<RichColor Color=\"1, 0, 1, 1\">Global Harvest Health Multiplier 1x</>\r\nPlayer Harvest Damage Multiplier 1x\r\n<RichColor Color=\"1, 0, 1, 1\">Creature Harvest Damage Multiplier 3.2x</>\r\n\r\n<RichColor Color=\"1, 0, 1, 1\">General XP Rates</>\r\nXP Multiplier 1.5x \r\n<RichColor Color=\"1, 0, 1, 1\">Other XP Rates</>\r\n\r\nAlpha Kill XP Multiplier 5x\r\nBoss Kill XP Multiplier 10x\r\nCava Kill XP Multiplier 3x\r\nExplorer Note XP Multiplier 2x\r\nTamed Kill XP Multiplier 3x\r\nUnclaimed Kill XP Multiplier 1x\r\nWild Kill XP Multiplier 3x\r\nCrafting XP Multiplier 2\r\nHarvest XP Multiplier 2\r\nKill XP Multiplier 1x\r\n\r\n<RichColor Color=\"1, 0, 1, 1\">Level Related Rates</>\r\nMax Wild Level 250\r\nPerfect Tame level 374\r\nMax Wyvern Level 316\r\nMax Crystal Wyvern Level  375\r\n\r\n<RichColor Color=\"1, 0, 1, 1\">Day And Night Cycle Rates</>\r\nDay 3h\r\nNight 1h\r\n<RichColor Color=\"1, 0, 1, 1\">These aren't accurate on all maps</>\r\n\r\n<RichColor Color=\"1, 0, 1, 1\">Breeding Rates</>\r\nBabyMatureSpeedMultiplier=50\r\n<RichColor Color=\"1, 0, 1, 1\">Other Related Rates</>\r\n\r\nBabyCuddleGracePeriodMultiplier=1\r\nBabyCuddleIntervalMultiplier=0.1\r\nBabyCuddleLoseImprintQualitySpeedMultiplier=1\r\nBabyFoodConsumptionSpeedMultiplier=1\r\nBabyImprintAmountMultiplier=2\r\nBabyImprintingStatScaleMultiplier=1",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://i.imgur.com/uzxXg4Y.png"
+				},
+				"panel3":
+				{
+					"title": "<TS.Roboto.15.Red>NOTES</>\r\n---",
+					"titlejustification": "Left",
+					"text": "<RichColor Color=\"1, 0, 0, 1\">An attack on an Admin, inside the specified tribe (DaisyChain) will result in a BAN</>\r\n---\r\n<RichColor Color=\"1, 0, 0, 1\">Due to recent bugs causing loss of player inventories and weird character meshes, we have disabled the mod (PureForm) once these issues are fixed, it will be re-added.</>\r\n---\r\n<RichColor Color=\"1, 0, 0, 1\">If you have been affected by anything mentioned above, please contact the Admin via the discord username below, thank you.</>\r\n---\r\n<RichColor Color=\"1, 0, 0, 1\">We don't currently have a Discord, BUT we can change that. If you'd be intrested in that, please make that known in any way possible! <3</>\r\n\r\n\r\nbbyazzyxo",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://i.imgur.com/pQZdX6b.png"
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "8AD5B44D4CED9EFA6C7DA9BD169AA607",
+				"buttoninfo":
+				{
+					"id": "8AD5B44D4CED9EFA6C7DA9BD169AA607",
+					"title": "RULES <3",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10480998456478119,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator0",
+				"panel1":
+				{
+					"title": "<RichColor Color=\"1, 0, 1, 1\">RULES <3</>",
+					"titlejustification": "Left",
+					"text": "<RichColor Color=\"1, 0, 1, 1\">Rules are as follows</>\r\n\r\n<RichColor Color=\"1, 0, 0, 1\">NOTE:</> An attack on an Admin, inside the specified tribe (DaisyChain) will result in a BAN\r\n   <RichColor Color=\"1, 0, 0, 1\">NOTE:</> Please listen to Admins/Helpers\r\n        <RichColor Color=\"1, 0, 0, 1\">NOTE:</> Please scroll to the bottom to view additional info\r\n           <RichColor Color=\"1, 0, 0, 1\">NOTE:</> We value everyone's time on RWC and any progression put into our servers. \r\n                                                    As so, wipes are a LAST RESORT.\r\n\r\n1.<RichColor Color=\"1, 0, 1, 1\">Social Rules</>\r\n\r\n  | No toxic behaviour\r\n  | No continuous harassment\r\n  | No mentioning the personal lives of other players\r\n  | No impersonating Admins in any RWC servers\r\n\r\n2.<RichColor Color=\"1, 0, 1, 1\">Game Rules</>\r\n\r\n  | No griefing dinos that are being tamed\r\n  | No using glitches/bugs/systems that are not meant to be used in such a manner\r\n  | Offensive user names are not allowed (admins will change them to whatever they want)\r\n\r\n3.<RichColor Color=\"1, 0, 1, 1\">Builds</>\r\n\r\n  | No building near obelisks\r\n  | No building inside the mesh\r\n  | It is NOT allowed to place random spam on the map\r\n               <RichColor Color=\"1, 0, 1, 1\">(structures breaking the above rules will be removed without warning)</>\r\n\r\n     3.1<RichColor Color=\"1, 0, 1, 1\">Blocked Base Spots</>\r\n\r\n       | Any Artifact cave\r\n\r\n4.<RichColor Color=\"1, 0, 1, 1\">PvP</>\r\n\r\n  | No insiding <RichColor Color=\"1, 0, 1, 1\">(is when a player joins a tribe with the intention of demolishing everything while the Tribe members are offline)</>\r\n  | No raiding tribes that are obviously not on your level <RichColor Color=\"1, 0, 1, 1\">(example: Tek vs stone)</>\r\n  | Tribes can cage other survivors for a maximum of 60 minutes\r\n\r\n-------------------------------\r\n<RichColor Color=\"1, 0, 1, 1\">Additional Info</>\r\n   Rule-breaking can result in the following\r\n\r\n  | Removals, Bans, Temp bans, (Temp bans follow in the below orders)\r\n       | Perm bans are a last resort (Dont be a menace please) CCCCC\r\n\r\nFirst offence -1 day\r\nSecond offence -3 days\r\nThird offence -6 days\r\nFourth offence -2 weeks",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://i.imgur.com/xNj8LWi.png"
+				},
+				"panel2":
+				{
+					"title": "<RichColor Color=\"1, 0, 1, 1\">RULES <3</>",
+					"titlejustification": "Left",
+					"text": "3.<RichColor Color=\"1, 0, 1, 1\">Builds</>\r\n\r\n  | No building near obelisks\r\n  | No building inside the mesh\r\n  | It is NOT allowed to place random spam on the map\r\n               <RichColor Color=\"1, 0, 1, 1\">(structures breaking the above rules will be removed without warning)</>\r\n\r\n     3.1<RichColor Color=\"1, 0, 1, 1\">Blocked Base Spots</>\r\n\r\n       | Any Artifact cave\r\n\r\n-------------------------------\r\n<RichColor Color=\"1, 0, 1, 1\">Additional Info</>\r\n   Rule-breaking can result in the following\r\n\r\n  | Removals, Bans, Temp bans, (Temp bans follow in the below orders)\r\n       | Perm bans are a last resort (Dont be a menace please) \r\n\r\nFirst offence -1 day\r\nSecond offence -3 days\r\nThird offence -6 days\r\nFourth offence -2 weeks",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://i.imgur.com/xNj8LWi.png"
+				},
+				"panel3":
+				{
+					"title": "PANEL 3",
+					"titlejustification": "Left",
+					"text": "PANEL 3 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "82DD5ADD42D1CDDABF59378AA35688CC",
+				"buttoninfo":
+				{
+					"id": "82DD5ADD42D1CDDABF59378AA35688CC",
+					"title": "Server Boosting <3",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10480998456478119,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator2",
+				"panel1":
+				{
+					"title": "<RichColor Color=\"1, 0, 1, 1\">BOOSTING</>\r\n",
+					"titlejustification": "Center",
+					"text": "If you wish to, you can boost one of our servers runtime. <RichColor Color=\"1, 0, 1, 1\">follow the steps below!</>\r\n\r\nDownload the <RichColor Color=\"1, 0, 1, 1\">Nitrado</> app, either on <RichColor Color=\"1, 0, 1, 1\">Xbox</> or from the <RichColor Color=\"1, 0, 1, 1\">Windows Store</>.\r\n\r\nSign in, and click the <RichColor Color=\"1, 0, 1, 1\">'Boosting'</> tab on the top. That's all! \r\n\r\n<RichColor Color=\"1, 0, 1, 1\">On the right are the corresponding boost codes you need.</>",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "\r\n\r\n\r\nlq3hekzz <RichColor Color=\"1, 0, 1, 1\">The Island.</>\r\n\r\noc4kz0i8 <RichColor Color=\"1, 0, 1, 1\">Scorched Earth.</>\r\n\r\neo2g2e4n <RichColor Color=\"1, 0, 1, 1\">The Center.</>",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "9F99DC4B425CBE251FC432B38CC341E3",
+				"buttoninfo":
+				{
+					"id": "9F99DC4B425CBE251FC432B38CC341E3",
+					"title": "Extra server Info/Settings <3",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10480998456478119,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator2",
+				"panel1":
+				{
+					"title": "<TS.Roboto.15.Red>NOTES</>\r\n---",
+					"titlejustification": "Left",
+					"text": "<RichColor Color=\"1, 0, 0, 1\">An attack on an Admin, inside the specified tribe (DaisyChain) will result in a BAN</>\r\n---\r\n<RichColor Color=\"1, 0, 0, 1\">Due to recent bugs causing loss of player inventories and weird character meshes, we have disabled the mod (PureForm) once these issues are fixed, it will be re-added.</>\r\n---\r\n<RichColor Color=\"1, 0, 0, 1\">If you have been affected by anything mentioned above, please contact the Admin via the discord username below, thank you.</>\r\n---\r\n<RichColor Color=\"1, 0, 0, 1\">We don't currently have a Discord, BUT we can change that. If you'd be intrested in that, please make that known in any way possible! <3</>\r\n\r\n\r\nbbyazzyxo",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "<RichColor Color=\"1, 0, 1, 1\">Extra Server Info</>\r\n---",
+					"titlejustification": "Left",
+					"text": "There'll always only be a total of <RichColor Color=\"1, 0, 1, 1\">30</> mods on any <RichColor Color=\"1, 0, 1, 1\">RWC</> server.\r\n--- \r\nMods will be changed, and swapped for better or updated versions. <RichColor Color=\"1, 0, 1, 1\">(Excluding paid for mods)</>\r\n\r\n---\r\nThe Mod <RichColor Color=\"1, 0, 1, 1\">Shiny!</> is on our server. Below are the settings.\r\n\r\n  | <RichColor Color=\"1, 0, 1, 1\">Tamable</> No\r\n  | <RichColor Color=\"1, 0, 1, 1\">Levels</> 10000-15000\r\n\r\nAdditional Info\r\n\r\n    | <RichColor Color=\"1, 0, 1, 1\">These should be considered as (Mini Bosses)</>\r\n    | <RichColor Color=\"1, 0, 1, 1\">Their stats are boosted by</> 6x \r\n    | <RichColor Color=\"1, 0, 1, 1\">They give very good loot!</>\r\n\r\***** a Shiny! is killed, you'll be granted a random amount of stuff.\r\n\r\nCementing Paste\r\nElement (Max of 2 per Shiny)\r\nChitin \r\nExtraordinary Kibble\r\nExceptional Kibble\r\nBlack Pearls\r\nSilica Pearls\r\nRandom Chibi\r\nOil\r\nElectronics \r\n\r\nExtra will be added.",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			}
+		],
+		"links": [
+			{
+				"id": "D2C8BBAC4B90FBA370CD3582B95C19B1",
+				"url": "https://discord.gg/FF7jAT82XU",
+				"buttoninfo":
+				{
+					"id": "D2C8BBAC4B90FBA370CD3582B95C19B1",
+					"title": "Discord",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.097127825021743774,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.50888186693191528,
+							"g": 0.0091341044753789902,
+							"b": 0.46778431534767151,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 1
+					}
+				}
+			}
+		],
+		"linkbuttondefaultsettings":
+		{
+			"id": "",
+			"title": "",
+			"position": "NewEnumerator0",
+			"normal":
+			{
+				"backgroundcolor":
+				{
+					"r": 0.00060700002359226346,
+					"g": 0.028426000848412514,
+					"b": 0.07618500292301178,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0.50888186693191528,
+					"g": 0.0091341044753789902,
+					"b": 0.46778431534767151,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0.50888186693191528,
+					"g": 0.0091341044753789902,
+					"b": 0.46778431534767151,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"hovered":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.015685999765992165,
+					"b": 0.043136999011039734,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0.26274499297142029,
+					"b": 0.40784299373626709,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.23529399931430817,
+					"b": 0.27058801054954529,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"pressed":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.027450999245047569,
+					"b": 0.074510000646114349,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0.21568599343299866,
+					"g": 0.80000001192092896,
+					"b": 1,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.44705900549888611,
+					"b": 0.50980401039123535,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"selected":
+			{
+				"backgroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 1,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0.5
+			}
+		},
+		"tabbuttondefaultsettings":
+		{
+			"id": "",
+			"title": "",
+			"position": "NewEnumerator0",
+			"normal":
+			{
+				"backgroundcolor":
+				{
+					"r": 0.00060700002359226346,
+					"g": 0.028426000848412514,
+					"b": 0.07618500292301178,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0.50888186693191528,
+					"g": 0.0091341044753789902,
+					"b": 0.46778431534767151,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0.50888186693191528,
+					"g": 0.0091341044753789902,
+					"b": 0.46778431534767151,
+					"a": 1
+				},
+				"borderthickness": 0.10480998456478119,
+				"cornerradius": 1
+			},
+			"hovered":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.015685999765992165,
+					"b": 0.043136999011039734,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0.50888186693191528,
+					"g": 0.0091341044753789902,
+					"b": 0.46778431534767151,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0.50888186693191528,
+					"g": 0.0091341044753789902,
+					"b": 0.46778431534767151,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 1
+			},
+			"pressed":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.027450999245047569,
+					"b": 0.074510000646114349,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0.50888186693191528,
+					"g": 0.0091341044753789902,
+					"b": 0.46778431534767151,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0.50888186693191528,
+					"g": 0.0091341044753789902,
+					"b": 0.46778431534767151,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 1
+			},
+			"selected":
+			{
+				"backgroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 1,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0.5
+			}
+		},
+		"paneldefaultbackgroundcolor":
+		{
+			"r": 0,
+			"g": 0.0078429998829960823,
+			"b": 0.019608000293374062,
+			"a": 0.7019609808921814
+		},
+		"iconsettings":
+		{
+			"showicon": true,
+			"hideafterduration": 0,
+			"usecustomicon": true,
+			"customiconurl": "https://i.imgur.com/t5aJuaz.png",
+			"usecustomtext": false,
+			"customtext": "",
+			"customtextcolor":
+			{
+				"r": 0.41561615467071533,
+				"g": 0.18246364593505859,
+				"b": 1,
+				"a": 1
+			},
+			"openbuttonkey": "F2",
+			"position": "NewEnumerator3",
+			"iconmarginx": 0,
+			"iconmarginy": 0,
+			"iconopacity": 1,
+			"customtextopacity": 0,
+			"customtexthorizontalalignment": "HAlign_Fill",
+			"customtextverticalalignment": "VAlign_Fill",
+			"customtextfontsize": 0
+		},
+		"showsettings":
+		{
+			"onplayerlogon": true,
+			"fornewplayersonly": false,
+			"onnextplayerlogonversion": 1
+		},
+		"miscsettings":
+		{
+			"isplayerslistenabled": true,
+			"istribeslistenabled": true,
+			"isdinoscannerenabled": false
+		}
+	}
+}
